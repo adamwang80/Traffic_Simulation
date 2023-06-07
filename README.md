@@ -19,6 +19,6 @@ These metrics help in understanding the system's behaviors during flooding and d
 
 ## Installation & Usage
 1. Clone the repository: `git clone https://github.com/your_username/your_repo.git`
-2. Run the simulation: `python simulation.py`
+2. Run the simulation: `python3 main.py`
 
 _Note: Replace the URL and filenames with your actual repository URL and filenames._
